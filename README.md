@@ -5,7 +5,11 @@ Hello, I'm Robert Indelicato, a data analyst specializing in aviation market ana
 
 ### Work Experience
 Data Analyst @ Amstat Incorporated
--
+- Gathered and arranged research data to create representative graphs and
+charts highlighting aircraft sales figures by state and calendar year.This provided our customers a
+competitive advantage to ultimately uncover new revenue opportunities and drive strategic
+decision-making within the corporate aviation industry.
+
 
 
 ### Projects
