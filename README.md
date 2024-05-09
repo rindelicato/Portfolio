@@ -25,7 +25,7 @@ and hospitals on an as-needed basis. The analysis will help plan for influenza
 season, a time when additional staff are in high demand. The final results will
 examine trends in influenza and how they can be used to proactively plan for
 staffing needs across the country.
-- As an analyst, you need technical skills to analyze your data and soft skills to communicate your
+- I used my technical skills to analyze the data and soft skills to communicate my
 insights to stakeholders.
 
 
@@ -44,7 +44,7 @@ along with their purchasing behaviors. They assume they can't target everyone us
 same methods, and they’re considering a targeted marketing strategy. They want to target
 different customers with applicable marketing campaigns to see whether they have an effect
 on the sale of their products.
-- Your an analyst your job is to perform an initial data and exploratory analysis of some of their data in order to derive insights and suggest.
+-  I performws an initial data and exploratory analysis of some of their data in order to derive insights and suggest reccomendations.
 
 
 Pig E. Bank
