@@ -48,6 +48,7 @@ on the sale of their products.
 
 Contact
 [LinkedIn](https://www.linkedin.com/in/robert-i-b0714b122/)
+[Tableau Public]([https://www.linkedin.com/in/robert-i-b0714b122/](https://public.tableau.com/app/profile/robert.indelicato/vizzes)
 
 
 
