@@ -46,6 +46,13 @@ different customers with applicable marketing campaigns to see whether they have
 on the sale of their products.
 - Your an analyst your job is to perform an initial data and exploratory analysis of some of their data in order to derive insights and suggest.
 
+
+Pig E. Bank
+- You’ve been hired as a data analyst by a well-known global bank. Your job is
+to provide analytical support to its anti-money-laundering compliance department.
+
+
+
 Contact
 - [LinkedIn](https://www.linkedin.com/in/robert-i-b0714b122/)
 - [Tableau Public](https://public.tableau.com/app/profile/robert.indelicato/vizzes)
