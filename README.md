@@ -98,7 +98,7 @@ Sept 2017- June 2019,  Lincroft, NJ
 - Computer Science
 
 
-[Link to Resume](https://github.com/your-username/resume-file-name.pdf)
+[Link to Resume](https://github.com/rindelicato/portfolio/blob/main/RobertIndelicato_ResumeDOC_02292024.docx%20(1).pdf)
 
 
 
