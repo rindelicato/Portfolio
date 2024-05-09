@@ -4,21 +4,20 @@
 Hello, I'm Robert Indelicato, a data analyst specializing in aviation market analysis. With a focus on providing timely and accurate information, I help brokers/dealers, finance companies, fractional providers, and suppliers of aircraft parts and services uncover new revenue opportunities and gain a competitive edge. My expertise lies in delivering actionable insights that drive growth and innovation within the aviation industry, and I'm eager to extend this impact to new sectors.
 
 ### Work Experience
-Data Analyst @ Amstat Incorporated
+**Data Analyst** @ Amstat Incorporated
 - Gathered and arranged research data to create representative graphs and
-charts highlighting aircraft sales figures by state and calendar year.This provided our customers a
+charts highlighting aircraft sales figures by state and calendar year. This provided our customers a
 competitive advantage to ultimately uncover new revenue opportunities and drive strategic
 decision-making within the corporate aviation industry.
 
 
-Resume
 # **Profession Summary**
 
-Results-oriented Data Analyst adept at managing large datasets, extracting valuable insights, and generating impactful reports. Proactive in identifying trends crucial to business success. Collaborative team player experienced in mentoring and training new analysts. 
+Hello, I'm Robert Indelicato, a data analyst specializing in aviation market analysis. With a focus on providing timely and accurate information, I help brokers/dealers, finance companies, fractional providers, and suppliers of aircraft parts and services uncover new revenue opportunities and gain a competitive edge. My expertise lies in delivering actionable insights that drive growth and innovation within the aviation industry, and I'm eager to extend this impact to new sectors.
 
 # **Projects**
 
-- GamCo- Perform descriptive analysis & recommendations to improve company sales based on their historical data.
+- GameCo- Perform descriptive analysis & recommendations to improve company sales based on their historical data.
 
 - Influenza Season- Perform descriptive analysis based on influenza historical data to provide recommendations based on trends in influenza and how the medical staffing agency should plan for staffing needs across the country
 
@@ -50,7 +49,7 @@ Results-oriented Data Analyst adept at managing large datasets, extracting valua
 **Amstat Corp** / Data Analyst
 August 2021- PRESENT,  Eatontown, NJ
 
-- Gather and arrange research data to create representative graphs and charts highlighting aircraft sales figures by state and calendar year.This provided our customers a competitive advantage to ultimately uncover new revenue opportunities and drive strategic decision-making within the corporate aviation industry.
+- Gather and arrange research data to create representative graphs and charts highlighting aircraft sales figures by state and calendar year. This provided our customers a competitive advantage to ultimately uncover new revenue opportunities and drive strategic decision-making within the corporate aviation industry.
  
 - Synthesized consumer and market data, leveraging advanced tools like Power BI and SQL to create dynamic visualizations that highlighted population trends and seasonal fluctuations.This helped facilitate resource allocations and targeted marketing strategies, ultimately driving improved market responsive and customer engagement.
  
@@ -64,7 +63,7 @@ August 2021- PRESENT,  Eatontown, NJ
 July 2020 - August 2021,  Oceanport, NJ
 
 - Analyzed demographic data to develop strategies for better targeting of underserved areas for community outreach programs. 
-- Presented data summaries & pivot charts using Excel vlookup formulas to combine demographic with COVID-19 data on hotspot areas.
+- Presented data summaries & pivot charts using Excel VLOOKUP formulas to combine demographic with COVID-19 data on hotspot areas.
 - Provided resources information for COVID-19 awareness in targeted communities. 
 
 # **Education**
@@ -78,11 +77,11 @@ Sept 2023-Sept 2024
 - Identifying and addressing data bias, data privacy, and data security. 
 
 **Rutgers University** / Bachelor’s Degree
-Sept 2019- June 2021,  New Brunskwick, NJ
+Sept 2019- June 2021,  New Brunswick, NJ
 
 - Major in Criminal Justice
 - Secondary Major in Political Science
-- Minor in CyberSecurity
+- Minor in Cybersecurity
   
 **Brookdale Community College** / Associate’s Degree
 Sept 2017- June 2019,  Lincroft, NJ
