@@ -47,6 +47,10 @@ on the sale of their products.
 - Your an analyst your job is to perform an initial data and exploratory analysis of some of their data in order to derive insights and suggest.
 
 Contact
+[LinkedIn](https://www.linkedin.com/in/robert-i-b0714b122/)
+
+
+
 
 
 
