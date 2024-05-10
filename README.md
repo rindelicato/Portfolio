@@ -2,16 +2,16 @@
 # Data Analyst
 
 ### About Me
-Hello, I'm Robert Indelicato, proudly born and raised in New Jersey. I'm a dedicated individual who thrives on the satisfaction of completing a day's work to the best of my ability. 
-I have a passion for music and enjoy listening to all types of genres.  As a hobby I sometimes like to take a song that is stuck in my head from a movie or the radio and play it on the piano. When I was younger I had formal Piano lessons for about 10 years.
+Hello, I'm Robert Indelicato, born and raised in New Jersey. I'm a dedicated individual who thrives on the satisfaction of completing a day's work to the best of my ability. 
+I have a passion for music and enjoy listening to all types of genres.  As a hobby I sometimes like to take a song that is stuck in my head from a movie or the radio and play improv on the piano. When I was younger I had formal Piano lessons for about 10 years and learned to appreciate all types of music.
 
-One of the most impactful life lessons I garnered was during my pursuit of excellence in music. As a young musician, I aspired to compete in the Carnegie Hall student competition, a journey that demanded months of intensive preparation mastering complex piano compositions. Despite initial setbacks, I persevered, driven by an unyielding determination to achieve my dreams.
+One of the most impactful life lessons I learned was during my pursuit of excellence in music. As a young musician, I aspired to compete in the Carnegie Hall student competition, a journey that demanded months of intensive preparation on complex piano compositions. Despite initial setbacks, I persevered, driven by a determination to achieve my dreams.
 
-My persistence bore fruit when I triumphed for three consecutive years, earning the esteemed opportunity to showcase my talents at Carnegie Hall. This transformative journey underscored the vital importance of resilience in adversity and the enduring power of unwavering determination.
+My persistence bore fruit when I finally won the competition for three consecutive years, earning the esteemed opportunity to showcase my talents at Carnegie Hall. This transformative journey underscored the vital importance of resilience in adversity and the enduring power of unwavering determination.
 
-This ethos extended into my academic journey, culminating in dual majors in Criminal Justice and Political Science with a minor in Cyber Security. This academic diversity equipped me with a comprehensive understanding of the Legal System, government institutions, and Intellectual Property.
+This determination also extended into my academic journey, where I graduated from Rutgers University with dual majors in Criminal Justice and Political Science and a minor in Cyber Security. This academic diversity equipped me with a comprehensive understanding of the Legal System, government institutions, and Intellectual Property amonst other things.
 
-My professional journey commenced as a research analyst for the Civic Operations Group, collaborating with the New Jersey Department of Health on a pivotal COVID-19 outreach program. This role immersed me in the intricacies of government and demographic data analysis, aiding in the identification of underserved communities. This experience fueled my passion for data analysis, leading to a role at Amstat Corp as a data analyst specializing in aviation data. Driven by a desire for continuous growth, I pursued further refinement of my analytical skills by enrolling in CareerFoundry.
+My professional journey started as a research analyst for the Civic Operations Group, collaborating with the New Jersey Department of Health on a pivotal COVID-19 outreach program. This role immersed me in the intricacies of government and demographic data analysis, aiding in the identification of underserved communities. This experience fueled my passion for data analysis, leading to a role at Amstat Corp as a data analyst specializing in aviation data. Driven by a desire for continuous growth, I pursued further refinement of my analytical skills by enrolling in CareerFoundry.
 
 
 ### Work Experience
