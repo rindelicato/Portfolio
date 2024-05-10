@@ -23,8 +23,10 @@ Experienced Data Analyst specializing in aviation market analysis. With a focus 
 
 - GameCo- Perform descriptive analysis & recommendations to improve company sales based on their historical data.
  [Video Games Sales v2.pdf](https://github.com/rindelicato/portfolio/blob/main/Video%20Games%20Sales%20v2.pdf)
+
 - Influenza Season- Perform descriptive analysis based on influenza historical data to provide recommendations based on trends in influenza and how the medical staffing agency should plan for staffing needs across the country
  [Tableau Visualization - Story2](https://public.tableau.com/app/profile/robert.indelicato/viz/2_10Task/Story2)
+
 - Rockbusters- Analyze Rockbusters data through SQL queries and provide answer to all ad-hoc business questions from various departments inside the company to support them in the release of an online video rental service 
  [rockbuster_SQL/get_top5Countries_byCustCountandTopPayingCust](https://github.com/rindelicato/rockbuster_SQL/blob/main/get_top5Countries_byCustCountandTopPayingCust)
 
