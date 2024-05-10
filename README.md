@@ -32,7 +32,7 @@ Experienced Data Analyst specializing in aviation market analysis. With a focus 
  [Instacart Analysis Using Python and Jupyter Notebooks](https://github.com/rindelicato/Python/blob/main/Instacart%20Anaylsis%20Using%20Python%20and%20Jupyter%20Notebooks.ipynb)
 
 - Pig E. Bank- Analytical support to the anti-money-laundering compliance department through data-related projects that assess client risk and transaction risk, as well as reporting on metrics to support the bank in running their compliance program more efficiently. 
-
+[5.4-PigEBank-Client-Data-set.pdf](https://github.com/rindelicato/portfolio/blob/main/5.4-PigEBank-Client-Data-set.pdf) 
 
 # **Skills**
 
