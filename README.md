@@ -22,14 +22,14 @@ Experienced Data Analyst specializing in aviation market analysis. With a focus 
 # **Projects**
 
 - GameCo- Perform descriptive analysis & recommendations to improve company sales based on their historical data.
-- [Video Games Sales v2.pdf](https://github.com/rindelicato/portfolio/blob/main/Video%20Games%20Sales%20v2.pdf)
+ [Video Games Sales v2.pdf](https://github.com/rindelicato/portfolio/blob/main/Video%20Games%20Sales%20v2.pdf)
 - Influenza Season- Perform descriptive analysis based on influenza historical data to provide recommendations based on trends in influenza and how the medical staffing agency should plan for staffing needs across the country
-- [Tableau Visualization - Story2](https://public.tableau.com/app/profile/robert.indelicato/viz/2_10Task/Story2)
+ [Tableau Visualization - Story2](https://public.tableau.com/app/profile/robert.indelicato/viz/2_10Task/Story2)
 - Rockbusters- Analyze Rockbusters data through SQL queries and provide answer to all ad-hoc business questions from various departments inside the company to support them in the release of an online video rental service 
-- [rockbuster_SQL/get_top5Countries_byCustCountandTopPayingCust](https://github.com/rindelicato/rockbuster_SQL/blob/main/get_top5Countries_byCustCountandTopPayingCust)
+ [rockbuster_SQL/get_top5Countries_byCustCountandTopPayingCust](https://github.com/rindelicato/rockbuster_SQL/blob/main/get_top5Countries_byCustCountandTopPayingCust)
 
 - Instacart Basket- Derive insights and suggest strategies for increase sales based on initial data and exploratory analysis of Instacart data by python libraries, such as Pandas, Numpy and Matplotlib
-- [Instacart Analysis Using Python and Jupyter Notebooks](https://github.com/rindelicato/Python/blob/main/Instacart%20Anaylsis%20Using%20Python%20and%20Jupyter%20Notebooks.ipynb)
+ [Instacart Analysis Using Python and Jupyter Notebooks](https://github.com/rindelicato/Python/blob/main/Instacart%20Anaylsis%20Using%20Python%20and%20Jupyter%20Notebooks.ipynb)
 
 - Pig E. Bank- Analytical support to the anti-money-laundering compliance department through data-related projects that assess client risk and transaction risk, as well as reporting on metrics to support the bank in running their compliance program more efficiently. 
 
