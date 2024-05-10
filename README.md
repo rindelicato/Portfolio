@@ -1,4 +1,4 @@
-![Profile Picture](IMG_4082.jpg)
+![Profile Picture](/assests/img/IMG_4082.jpg)
 # Data Analyst
 
 ### About Me
