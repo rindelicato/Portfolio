@@ -17,7 +17,7 @@ My professional journey started as a research analyst for the Civic Operations G
 
 # **Profession Summary**
 
-Hello, I'm Robert Indelicato, a data analyst specializing in aviation market analysis. With a focus on providing timely and accurate information, I help brokers/dealers, finance companies, fractional providers, and suppliers of aircraft parts and services uncover new revenue opportunities and gain a competitive edge. My expertise lies in delivering actionable insights that drive growth and innovation within the aviation industry, and I'm eager to extend this impact to new sectors.
+Experienced Data Analyst specializing in aviation market analysis. With a focus on providing timely and accurate information, I help brokers/dealers, finance companies, fractional providers, and suppliers of aircraft parts and services uncover new revenue opportunities and gain a competitive edge. My expertise lies in delivering actionable insights that drive growth and innovation within the aviation industry, and I'm eager to extend this impact to new sectors.
 
 # **Projects**
 
