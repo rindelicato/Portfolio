@@ -87,7 +87,7 @@ Sept 2019- June 2021,  New Brunswick, NJ
 
 - Major in Criminal Justice
 - Secondary Major in Political Science
-- Minor in Cybersecurity
+- Minor in Critical Intelligence
   
 **Brookdale Community College** / Associate’s Degree
 Sept 2017- June 2019,  Lincroft, NJ
